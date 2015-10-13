@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CCTT Community</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_news">الأخبار</string>
+    <string name="title_activity_chat">تواصل</string>
+    <string name="stable">الجدول الدراسي</string>
+    <string name="newss">أخبار الكلية</string>
+    <string name="course">دورات</string>
+    <string name="feed">شكاوي ومقترحات</string>
+    <string name="ads">الإعلانات</string>
+    <string name="chatt">تواصل</string>
+    <string name="dwnlds">الملفات المحملة</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_tables">الجداول</string>
+</resources>
